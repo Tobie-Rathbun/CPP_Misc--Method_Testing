@@ -8,6 +8,8 @@ int main() {
         cin >> answer;
 
         cout << "Enter the first number: ";
+        // output
+
 
         if (answer == "n") {
             running = false;
